@@ -1,0 +1,37 @@
+#$ TITLE: QuadMcFly - DJI HD OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: DJI, HD, HDOSD
+#$ AUTHOR: QuadMcFly (Ryan Harrell)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Routie FPV WTF OS OSD Settings
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: DJI HD OSD setup without GPS.  Make sure to have Custom OSD enabled and the OSD mode set to HD in your DJI Goggles for Betaflight elements to display. You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: OSD Setup:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: <img src="https://www.miniquadtestbench.com/assets/images/qmf-hdosd-preset.png" style="width:100%"/>
+#$ DESCRIPTION: 
+#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/385
+
+set vcd_video_system = HD
+set osd_vbat_pos = 3277
+set osd_rssi_pos = 2160
+set osd_link_quality_pos = 3176
+set osd_rssi_dbm_pos = 165
+set osd_tim_1_pos = 2346
+set osd_tim_2_pos = 2282
+set osd_throttle_pos = 3405
+set osd_current_pos = 3340
+set osd_mah_drawn_pos = 2410
+set osd_warnings_pos = 14681
+set osd_avg_cell_voltage_pos = 2170
+set osd_core_temp_pos = 3469
+set osd_log_status_pos = 2156
+set osd_displayport_device = MSP
+set osd_canvas_width = 60
+set osd_canvas_height = 22

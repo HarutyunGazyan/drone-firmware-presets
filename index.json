@@ -3668,8 +3668,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
-      "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
+      "fullPath": "presets/4.4/osd/routie_fpv_wtf_os_osd.txt",
+      "hash": "37aadc9c64f81ec3f9c6f836f967638abe1b57967895aaa2a5ea2aab22163650",
       "title": "QuadMcFly - DJI HD OSD",
       "firmware_version": [
         "4.4"
