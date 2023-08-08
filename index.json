@@ -3831,29 +3831,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/tune/ctzsnooze_5in_4S_race.txt",
-      "hash": "72c69bfa50faf6e31ec5165a86b7219bfc71a574c9d15df2f43c7be143907629",
-      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "3in",
-        "4in",
-        "5in",
-        "twig",
-        "4S",
-        "race",
-        "tune",
-        "ctzsnooze"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.4/tune/defaults.txt",
       "hash": "913b78f0010561a8e935f951493cb4bd7313493a36a48a7b9205a69e1350524f",
       "title": "Betaflight 4.4 TUNE defaults",
@@ -4221,6 +4198,22 @@
         "freestyle"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/routie_fpv_tune.txt",
+      "hash": "7301a229ce55f03b8e9a9f56ea6eb67cd948605d3731529051173d428c5fb0fd",
+      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "tune"
+      ],
+      "author": "ctzsnooze",
+      "force_options_review": true,
       "priority": 1000000000000
     },
     {
